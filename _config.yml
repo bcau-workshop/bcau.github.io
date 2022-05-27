@@ -7,7 +7,7 @@ email:
 logo: assets/img/logos/logo-bcau.svg # path to website logo (e.g. for the navigation bar)
 watermark: assets/img/logos/bcau-watermark.svg
 url: https://bcau-workshop.github.io/bcau2022/  # the base hostname & protocol for your site
-baseurl: # the subpath of your site, e.g. /my-github-repo
+baseurl: https://bcau-workshop.github.io/bcau2022/ # the subpath of your site, e.g. /my-github-repo
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Grounding Uncertainty Quantification in its Impact on Downstream Tasks.
 footer_text: >
