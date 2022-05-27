@@ -144,7 +144,7 @@ Coming Soon!
 
 ## Organizers
 
-<div class="organizers">
+<div class="organizers" style="  display: flex;  flex-wrap: wrap;  text-align: center;  gap: 30px;">
 
    <div class="col-xs-3">
     <a href="https://scholar.google.com/citations?user=zQsc0mcAAAAJ&hl=en">
