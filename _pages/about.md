@@ -144,10 +144,31 @@ Coming Soon!
 
 ## Organizers
 
-<!-- <div class="row">
+<div class="organizers">
+
+   <div class="col-xs-3">
+    <a href="https://scholar.google.com/citations?user=zQsc0mcAAAAJ&hl=en">
+      <img class="people-pic" src="{{ "/assets/img/people/taiga_abe.jpg" | prepend:site.baseurl }}">
+    </a>
+    <div class="people-name">
+      <a href="https://scholar.google.com/citations?user=zQsc0mcAAAAJ&hl=en">Taiga Abe</a>
+      <h6>Columbia University</h6>
+    </div>
+  </div>
+
+ <div class="col-xs-3">
+    <a href="https://banerjee-arundhati.github.io/">
+      <img class="people-pic" src="{{ "/assets/img/people/arundhati_banerjee.png" | prepend:site.baseurl }}">
+    </a>
+    <div class="people-name">
+      <a href="https://banerjee-arundhati.github.io/">Arundhati Banerjee</a>
+      <h6>Carnegie Mellon University</h6>
+    </div>
+  </div>
+
  <div class="col-xs-3">
     <a href="https://www.ekbuchanan.com/">
-      <img class="people-pic" src="{{ "/assets/img/people/kellybuchanan.png" | prepend:site.baseurl }}">
+      <img class="people-pic" src="{{ "/assets/img/people/kelly_buchanan.png" | prepend:site.baseurl }}">
     </a>
     <div class="people-name">
       <a href="https://www.ekbuchanan.com/">Kelly Buchanan</a>
@@ -155,25 +176,64 @@ Coming Soon!
     </div>
   </div>
 
-  <div class="col-xs-3">
-    <a href="https://animesh.garg.tech/">
-      <img class="people-pic" src="{{ "/assets/img/people/animeshgarg.jpg" | prepend:site.baseurl }}">
+ <div class="col-xs-3">
+    <a href="https://polkirichenko.github.io/">
+      <img class="people-pic" src="{{ "/assets/img/people/polina_kirichenko.jpg" | prepend:site.baseurl }}">
     </a>
     <div class="people-name">
-      <a href="https://animesh.garg.tech/">Animesh Garg</a>
-      <h6>University of Toronto</h6>
+      <a href="https://polkirichenko.github.io/">Polina Kirichenko</a>
+      <h6>New York University</h6>
     </div>
   </div>
 
-  <div class="col-xs-3">
-    <a href="https://lucehe.github.io/">
-      <img class="people-pic" src="{{ "/assets/img/people/lucaherrtti.jpg" | prepend:site.baseurl }}">
+ <div class="col-xs-3">
+    <a href="https://sflippl.github.io/">
+      <img class="people-pic" src="{{ "/assets/img/people/samuel_lippl.jpg" | prepend:site.baseurl }}">
     </a>
     <div class="people-name">
-      <a href="https://lucehe.github.io/">Luca Herranz-Celotti</a>
-      <h6>Université de Sherbrooke</h6>
+      <a href="https://sflippl.github.io/">Samuel Lippl</a>
+      <h6>Columbia University</h6>
     </div>
   </div>
-</div> -->
 
-Complete list coming soon!
+ <div class="col-xs-3">
+    <a href="https://geoffpleiss.com/">
+      <img class="people-pic" src="{{ "/assets/img/people/geoff_pleiss.jpg" | prepend:site.baseurl }}">
+    </a>
+    <div class="people-name">
+      <a href="https://geoffpleiss.com/">Geoff Pleiss</a>
+      <h6>Columbia University</h6>
+    </div>
+  </div>
+
+ <div class="col-xs-3">
+    <a href="https://www.linht.com/">
+      <img class="people-pic" src="{{ "/assets/img/people/linh_tran.png" | prepend:site.baseurl }}">
+    </a>
+    <div class="people-name">
+      <a href="https://www.linht.com/">Linh Tran</a>
+      <h6>AutoDesk AI lab</h6>
+    </div>
+  </div>
+
+   <div class="col-xs-3">
+    <a href="https://jonathanwenger.netlify.app/">
+      <img class="people-pic" src="{{ "/assets/img/people/jonathan_wenger.jpg" | prepend:site.baseurl }}">
+    </a>
+    <div class="people-name">
+      <a href="https://jonathanwenger.netlify.app/">Jonathan Wenger</a>
+      <h6>University of Tübingen</h6>
+    </div>
+  </div>
+
+   <div class="col-xs-3">
+    <a href="https://luhuanwu.github.io/">
+      <img class="people-pic" src="{{ "/assets/img/people/luhuan_wu.jpg" | prepend:site.baseurl }}">
+    </a>
+    <div class="people-name">
+      <a href="https://luhuanwu.github.io/">Luhuan Wu</a>
+      <h6>Columbia University</h6>
+    </div>
+  </div>
+
+</div>
