@@ -2,6 +2,12 @@
 
 This repository contains the source files for [bcau.github.io](bcau.github.io), the website of the **BCAU** workshop.
 
+<br>
+<div align="center">
+    <img align="center" src="assets/img/logos/logo-bcau-wide.svg" alt="logo" width="600" style="padding-right: 10px; padding left: 10px;" title="BCAU"/>
+</div>
+<br>
+
 ## Requesting Changes
 
 You can request features or report bugs by creating an [issue](https://github.com/bcau-workshop/bcau.github.io/issues). Be aware that your requested change has much higher probability of being considered if you suggest it directly via a pull request (see contribution guide below).
