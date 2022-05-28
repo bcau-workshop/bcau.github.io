@@ -99,7 +99,7 @@ Coming Soon!
 <div class="row">
   <div class="col-md-12">
     <img class="speaker-pic" style="float:left;margin-right:30px;" src="{{ "/assets/img/people/tamara_broderick.jpg" | prepend:site.baseurl }}">
-    <p><a href="b"><b>Tamara Broderick</b></a>
+    <p><a href="https://tamarabroderick.com/"><b>Tamara Broderick</b></a>
     (confirmed) is an Associate Professor in the Department of Electrical Engineering and Computer Science at MIT. Her recent research has focused on developing and analyzing models for scalable Bayesian machine learning. She is interested in understanding how we can reliably quantify uncertainty and robustness in modern, complex data analysis procedures. To that end, she is particularly focused on Bayesian inference and graphical models – with an emphasis on scalable, nonparametric, and unsupervised learning. She has been awarded selection to the COPSS Leadership Academy (2021), an Early Career Grant (ECG) from the Office of Naval Research (2020), an NSF CAREER Award (2018), a Sloan Research Fellowship (2018), an Army Research Office Young Investigator Program (YIP) award (2017), Google Faculty Research Awards, an Amazon Research Award and the ISBA Lifetime Members Junior Researcher Award among others.</p>
   </div>
 </div>
@@ -107,7 +107,7 @@ Coming Soon!
 <div class="row">
   <div class="col-md-12">
     <img class="speaker-pic" style="float:left;margin-right:30px;" src="{{ "/assets/img/people/philipp_hennig.jpg" | prepend:site.baseurl }}">
-    <p><a href="b"><b>Philipp Hennig</b></a>
+    <p><a href="https://uni-tuebingen.de/de/134782"><b>Philipp Hennig</b></a>
     (confirmed) holds the Chair for the Methods of Machine Learning at the University of Tübingen, and is an adjunct scientist at the Max Planck Institute for Intelligent Systems. He studied Physics in Heidelberg, Germany and at Imperial College, London, before moving to the University of Cambridge, UK, where he attained a PhD in the group of Sir David JC MacKay with research on machine learning. Since this time, he is interested in connections between computation and inference. With international collaborators, he helped establish the field of probabilistic numerics. His research was supported, among others, by the Emmy Noether Programme of the German Research Union (DFG), an independent Research Group of the Max Planck Society, and a Starting Grant of the European Commission. 
     <!-- Hennig is co-speaker of the Cyber Valley Initiative (with Michael Black and Thomas Kropf); Co-Director of the ELLIS Program on Theory, Algorithms and Computations of Modern Learning Systems (with Francis Bach and Lorenzo Rosasco), and Member of the Center of Excellence for Machine Learning in Science. He is a Co-PI of the IMPRS for Intelligent Systems and the Competence Center for Machine Learning in Tübingen. In 2019, he received the annual Award for Excellence in Teaching of the Union of CS Students. -->
     </p>
@@ -117,7 +117,7 @@ Coming Soon!
 <div class="row">
   <div class="col-md-12">
     <img class="speaker-pic" style="float:left;margin-right:30px;" src="{{ "/assets/img/people/balaji_lakshminarayanan.jpg" | prepend:site.baseurl }}">
-    <p><a href="b"><b>Balaji Lakshminarayanan</b></a>
+    <p><a href="http://www.gatsby.ucl.ac.uk/~balaji/"><b>Balaji Lakshminarayanan</b></a>
     (confirmed) is a Staff Research Scientist (Tech Lead, Manager) at Google Brain in Mountain View (USA), where he leads a team of research scientists and engineers. Prior to that, he was a Staff Research Scientist at DeepMind. Balaji's research interests are in scalable, probabilistic machine learning. His PhD thesis was focused on exploring (and exploiting) connections between neat mathematical ideas in (non-parametric) Bayesian land and computationally efficient tricks in decision tree land, to get the best of both worlds. More recently, he has focused on probabilistic deep learning, including but not limited to (out-of-distribution) robustness, deep generative models, normalizing flows and variational autoencoders, as well as applying probabilistic deep learning ideas in healthcare and Google products.
     </p>
   </div>
@@ -126,7 +126,7 @@ Coming Soon!
 <div class="row">
   <div class="col-md-12">
     <img class="speaker-pic" style="float:left;margin-right:30px;" src="{{ "/assets/img/people/yingzhen_li.jpg" | prepend:site.baseurl }}">
-    <p><a href="b"><b>Yingzhen Li</b></a>
+    <p><a href="http://yingzhenli.net/home/en/"><b>Yingzhen Li</b></a>
     (confirmed) is a lecturer at the Department of Computing at Imperial College London. Before that she spent 2.5 years as a senior researcher at Microsoft Research Cambridge. Yingzhen is interested in building reliable machine learning systems which can generalise to unseen environments. She approaches this goal using probabilistic modelling and representation learning. Her research topics include (deep) probabilistic graphical model design, fast and accurate (Bayesian) inference / computation techniques, uncertainty quantification for computation and downstream tasks, as well as robust and adaptive machine learning systems.
     </p>
   </div>
@@ -135,7 +135,7 @@ Coming Soon!
 <div class="row">
   <div class="col-md-12">
     <img class="speaker-pic" style="float:left;margin-right:30px;" src="{{ "/assets/img/people/andrew_gordon_wilson.jpg" | prepend:site.baseurl }}">
-    <p><a href="b"><b>Andrew Gordon Wilson</b></a>
+    <p><a href="https://cims.nyu.edu/~andrewgw/"><b>Andrew Gordon Wilson</b></a>
     (confirmed) is an Assistant Professor at the Courant Institute of Mathematical Sciences and the Center for Data Science at New York University. His research focuses on developing flexible, interpretable, and scalable machine learning models, often involving deep learning, Gaussian processes, and kernel learning. He cares about developing practically impactful methods, while at the same understanding why the methods work, and the foundations for building models that learn and generalize. Andrew is particularly excited about loss surfaces, generalization, probabilistic generative models, physics inspired methods, and Bayesian methods in deep learning. His work has been applied to time series, vision, NLP, spatial statistics, public policy, medicine, and physics.
     </p>
   </div>
