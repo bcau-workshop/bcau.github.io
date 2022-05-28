@@ -1,6 +1,6 @@
 # Website of the BCAU Workshop
 
-This repository contains the source files for [bcau.github.io](bcau.github.io), the website of the **BCAU** 2022 workshop.
+This repository contains the source files for [bcau-workshop.github.io](https://bcau-workshop.github.io/bcau2022), the website of the **BCAU** 2022 workshop.
 
 <br>
 <div align="center">
