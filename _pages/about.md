@@ -166,6 +166,16 @@ Coming Soon!
   </div>
 
  <div class="col-xs-3">
+    <a href="https://jeremybernste.in/">
+      <img class="people-pic" src="{{ "/assets/img/people/jeremy_bernstein.jpg" | prepend:site.baseurl }}">
+    </a>
+    <div class="people-name">
+      <a href="https://jeremybernste.in/">Jeremy Bernstein</a>
+      <h6>Caltech</h6>
+    </div>
+  </div>
+
+ <div class="col-xs-3">
     <a href="https://www.ekbuchanan.com/">
       <img class="people-pic" src="{{ "/assets/img/people/kelly_buchanan.png" | prepend:site.baseurl }}">
     </a>
