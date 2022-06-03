@@ -205,7 +205,7 @@ Coming Soon!
     </div>
   </div>
 
- <div class="col-xs-3">
+ <!-- <div class="col-xs-3">
     <a href="https://geoffpleiss.com/">
       <img class="people-pic" src="{{ "/assets/img/people/geoff_pleiss.jpg" | prepend:site.baseurl }}">
     </a>
@@ -213,7 +213,7 @@ Coming Soon!
       <a href="https://geoffpleiss.com/">Geoff Pleiss</a>
       <h6>Columbia University</h6>
     </div>
-  </div>
+  </div> -->
 
  <div class="col-xs-3">
     <a href="https://www.linht.com/">
