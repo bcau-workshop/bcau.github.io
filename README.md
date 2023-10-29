@@ -30,13 +30,32 @@ You can make simple changes directly in the browser.
 #### Forking and Cloning the Repository
 Fork the repository and GitHub and clone it to your local machine using `git`. It is recommended to set up `bcau-workshop/bcau.github.io` as a second `upstream` remote so you can easily keep up-to-date with the main repository. More detail [here](https://git-scm.com/book/en/v2/Git-Basics-Working-with-Remotes).
 
-#### Installing Dependencies
+#### Setting Up Ruby
 
-If you have a Mac or Linux machine try the following command to install Ruby and Bundler:
+Install Ruby and Bundler via the following instructions depending on your platform:
+
+**Linux:** 
 
 ```bash
 sudo apt-get install ruby-dev
 sudo gem install bundler
+```
+
+**Mac:**
+Installs [`rbenv`](https://github.com/rbenv/rbenv) to manage your Ruby version and Ruby itself. See the [`rbenv` documentation](https://github.com/rbenv/rbenv#how-it-works) for more instructions on how it works.
+
+```bash
+brew install rbenv ruby-build
+rbenv init # Follow the printed instructions to setup rbenv in your shell.
+rbenv global 3.1.2 # Sets your default version of ruby globally.
+```
+
+Now restart your shell and navigate to the directory of this repository.
+
+#### Installing Dependencies
+
+```bash
+gem install bundler
 ```
 
 Then install the required dependencies and plugins for the site via:
